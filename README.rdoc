@@ -1,6 +1,8 @@
 = ActsAsTaggableOn
 {<img src="https://secure.travis-ci.org/mbleigh/acts-as-taggable-on.png" />}[http://travis-ci.org/mbleigh/acts-as-taggable-on]
 
+A variation of the acts_as_taggable_on gem with a 'focus' being added to the tags.
+
 This plugin was originally based on Acts as Taggable on Steroids by Jonathan Viney.
 It has evolved substantially since that point, but all credit goes to him for the
 initial tagging functionality that so many people have used.
